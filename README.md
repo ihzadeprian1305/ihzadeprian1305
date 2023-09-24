@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ihzadeprian1305
-- 👀 I’m interested in Mobile Development
-- 🌱 I’m currently learning Flutter and Kotlin
+- 👀 I’m interested in Mobile and Web Development
+- 🌱 I’m currently focus on Flutter and Laravel
 - 💞️ I’m looking to collaborate on UI/UX Design to Implemented it on Mobile
 - 📫 How to reach me? Find me on Instagram @portfolioihza and Email ihza130502@gmail.com
 
